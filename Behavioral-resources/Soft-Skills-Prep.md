@@ -148,3 +148,5 @@ How did you learn?
 * [S.T.A.R Method Video](https://www.youtube.com/watch?v=0nN7Q7DrI6Q)
 
 * [Portfolio Site Info](https://skillcrush.com/2015/03/12/impressive-tech-portfolio/)
+
+* [Elevator Pitch](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/self-introduction.md)
