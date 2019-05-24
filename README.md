@@ -16,6 +16,8 @@ Familiarize yourself with their values, mission, CEO, product, any conversationa
 
 You dont have to memorize everything about the company just lookup enough to be able to talk about them.
 
+Take a look at my [Flatiron Prep Doc](https://github.com/codyjgreen/Behavioral/blob/master/Behavioral-resources/Example-Company-Research.md) that I used when I interviewed here for an example.
+
 Next look at the [Questions To Ask Doc](https://github.com/codyjgreen/Behavioral/blob/master/Behavioral-resources/Questions-To-Ask.md) and pick at least three questions that you like so that when the interview is winding down and the interviewer asks you if you have any questions for them you have something to ask.
 
 All of this is in preparation for our pair mock interview exercise where you will match up with each other and one of you will be the interviewer who gets to pick an interviewee's company and run through a full 15 minute interview and give feedback.
