@@ -14,7 +14,7 @@ To Enable the pursuit of a better life through education.
 
 - Make no little plans: aim high, no plan is too ambitious.
 - Work together.
-- Persue mastery.
+- Pursue mastery.
 - Be scrappy.
 - Radiate positivity.
 
