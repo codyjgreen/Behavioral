@@ -8,7 +8,7 @@ I've gathered some information and materials for you to make preparing for these
 
 ## Activity
 
-First look at the [Soft Skills Prep Doc](https://github.com/codyjgreen/Behavioral/blob/master/Behavioral-resources/Soft-Skills-Prep.md) and familiarize yourself with the S.T.A.R method and think about how you would awnser the questions in that document using it.
+First look at the [Soft Skills Prep Doc](https://github.com/codyjgreen/Behavioral/blob/master/Behavioral-resources/Soft-Skills-Prep.md) and familiarize yourself with the S.T.A.R method and think about how you would answer the questions in that document using it.
 
 What i'd like you to do next is look up at least two companies that you would like to work for.
 
