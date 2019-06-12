@@ -13,7 +13,7 @@ First look at the [Soft Skills Prep Doc](https://github.com/codyjgreen/Behaviora
 What i'd like you to do next is look up at least two companies that you would like to work for.
 
 
-Familiarize yourself with their values, mission, CEO, product, any conversational information that you find interesting.
+Write down and familiarize yourself with their values, mission, CEO, product, any conversational information that you find interesting.
 
 You will bring this for the mock interviews and the person interviewing you will be able to pick one of your companies to interview you as.
 
