@@ -143,7 +143,9 @@ How did you learn?
 * [The Muse 30 behavioral questions you should be ready to answer](https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer)
 
 
-* [Tech Interview Handbook - Behavioral Doc](https://github.com/yangshun/tech-interview-handbook/)
+* [Tech Interview Handbook ](https://github.com/yangshun/tech-interview-handbook/)
+
+* [Tech Interview Handbook Github.io version ](https://yangshun.github.io/tech-interview-handbook/)
 
 * [S.T.A.R Method Video](https://www.youtube.com/watch?v=0nN7Q7DrI6Q)
 
