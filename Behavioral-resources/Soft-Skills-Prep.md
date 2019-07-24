@@ -149,4 +149,4 @@ How did you learn?
 
 * [Portfolio Site Info](https://skillcrush.com/2015/03/12/impressive-tech-portfolio/)
 
-* [Elevator Pitch](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/self-introduction.md)
+* [Elevator Pitch](https://yangshun.github.io/tech-interview-handbook/self-introduction/#the-elevator-pitch)
