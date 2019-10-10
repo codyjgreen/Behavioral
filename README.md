@@ -31,4 +31,4 @@ After 30 minutes you will be getting a new partner and doing it all again implem
 After it is all said and done you will have interviewed twice and been interviewed twice. You should have some actionable feedback for things you could work on.
 
 
-Here is a [link](https://docs.google.com/spreadsheets/d/1-fzm0oVNYZ2C6jCFNX8nwe4ET-KeqTQxDOQDl7vvBm0/edit?usp=sharing) to the questions you will be asked.
+Here is a [link](https://docs.google.com/spreadsheets/d/1-fzm0oVNYZ2C6jCFNX8nwe4ET-KeqTQxDOQDl7vvBm0/edit?usp=sharing) to the questions you will be asked you can save a copy for your own practice in the future.
